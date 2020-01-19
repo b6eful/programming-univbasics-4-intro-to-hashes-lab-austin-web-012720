@@ -19,7 +19,7 @@ def my_hash_creator(key, value)
 end
 
 def read_from_hash(hash, key)
-  if :name = 'Steve'
+  if :name == 'Steve'
     read = {:hash => key}
   nil
 end
