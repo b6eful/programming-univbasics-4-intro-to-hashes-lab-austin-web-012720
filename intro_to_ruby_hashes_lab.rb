@@ -16,7 +16,6 @@ end
 
 def my_hash_creator(key, value)
   insect = {:name => value}
-  insect
 end
 
 def read_from_hash(hash, key)
